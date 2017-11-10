@@ -1,0 +1,11 @@
+
+# linux os version check
+
+lsb_release -a
+
+Distributor ID:	Ubuntu
+Description:	Ubuntu 17.04
+Release:	17.04
+Codename:	zesty
+
+
